@@ -1,0 +1,2 @@
+# funnypuzzle
+Simple puzzle
